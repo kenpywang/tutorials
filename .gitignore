@@ -1,0 +1,14 @@
+# Ignore Every Root File and Root Directory
+
+/*
+/*/
+
+# Execpt the Following
+
+!/.gitignore
+!/README.md
+!/*.do
+!/*.R
+!/*.Rmd
+!/*.py
+!/*.ipynb
